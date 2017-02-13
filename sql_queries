@@ -1,0 +1,19 @@
+THIS FILE IS NOT FOR PROGRAMMING PURPOSE. IT'S JUST TO RUN THE SAME QUERIES IN SERVER & LOCALHOST
+
+insert into chapters values (1, 'IEEE CS CET','Kerala','Kerala',140);
+insert into chapters values (2, 'IEEE CS CEC','Kerala','Kerala',40);
+insert into chapters values (3, 'IEEE CS RIT','Kerala','Kerala',80);
+insert into chapters values (4, 'IEEE CS SMIT','Madras','Tamil Nadu',182);
+insert into chapters values (5, 'IEEE CS CIT','Madras','Tamil Nadu',122);
+insert into chapters values (6, 'IEEE CS CMI','Madras','Tamil Nadu',77);
+insert into chapters values (7, 'IEEE CS IITM','Madras','Tamil Nadu',86);
+insert into chapters values (8, 'IEEE CS ABC','Madras','Tamil Nadu',30);
+insert into chapters values (9, 'IEEE CS DEF','Madras','Tamil Nadu',12);
+insert into chapters values (10, 'IEEE CS GECT','Madras','Tamil Nadu',82);
+insert into chapters values (11, 'IEEE CS PIS','Bombay','Maharashtra',99);
+insert into chapters values (12, 'IEEE CS BCE','Bombay','Maharashtra',110);
+insert into chapters values (13, 'IEEE CS CEB','Bombay','Maharashtra',102);
+insert into chapters values (14, 'IEEE CS BCD','Pune','Maharashtra',19);
+insert into chapters values (15, 'IEEE CS XYZ','Pune','Maharashtra',122);
+insert into chapters values (16, 'IEEE CS PUNE','Pune','Maharashtra',102);
+insert into chapters values (17, 'IEEE CS PCT','Pune','Maharashtra',111);
