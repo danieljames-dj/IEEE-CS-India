@@ -5,7 +5,7 @@ document.getElementById('contact-submit').onclick = function() {
 	window.location.href="index.html";
 }
 var xhttp = new XMLHttpRequest();
-xhttp.open("POST", "http://localhost:8080/search", true);
+xhttp.open("POST", "http://52.34.39.20:8080/search", true);
 xhttp.onload = function() {
 	json = JSON.parse(xhttp.responseText);
 	var length = Object.keys(json).length;
